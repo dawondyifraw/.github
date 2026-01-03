@@ -1,4 +1,4 @@
-<img align="right" width="360" src="https://raw.githubusercontent.com/dawondyifraw/dawondyifraw/main/profile/overview.png">
+<img align="right" width="360" src="https://raw.githubusercontent.com/dawondyifraw/dawondyifraw/main/profile/Gemini_Generated_Image_uni88ouni88ouni8.jpg">
 
 # Daniel Wonyifraw 👋
 
