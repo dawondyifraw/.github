@@ -1,4 +1,4 @@
-<img align="right" width="360" src="https://raw.githubusercontent.com/dawondyifraw/dawondyifraw/main/profile/Screenshot 2026-03-08 225806.png">
+<img align="right" width="360" src="https://raw.githubusercontent.com/dawondyifraw/dawondyifraw/main/profile/1747265590840.gif">
 
 # Daniel Wonyifraw 👋
 
