@@ -35,6 +35,13 @@ I help organizations design and implement **reliable data platforms and intellig
 
 ---
 
+```mermaid
+flowchart TD
+A[Sensors / External Data] --> B[Data Ingestion]
+B --> C[Data Processing]
+C --> D[Analytical Storage]
+D --> E[Machine Learning]
+E --> F[Visualization / Decision Support]
 # Featured Project — Urban Digital Twin
 
 A central project of my work is the design and development of an **Urban Digital Twin platform** for the City of ’s-Hertogenbosch.
