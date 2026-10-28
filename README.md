@@ -1,32 +1,17 @@
+
 # Daniel Wondyifraw
 
-Data engineer with more than ten years of experience building data systems in Ethiopia and the Netherlands — national health platforms, real-time city data, and now agricultural intelligence for African markets.
+I am a data engineer from Ethiopia. I have built data and software systems for more than ten years, first in Ethiopia and later in the Netherlands.
 
-**Currently:** Data Engineer at OpenTrace Africa, working remotely from Addis Ababa. I build the automated pipelines behind a commodity pricing and intelligence platform: ingestion into BigQuery, modelling and transformation with dbt, data marts for Power BI, and a retrieval (RAG) layer — Ask ADZA, a natural-language interface over the data, scored by the ADZA Confidence Framework.
+Now I work at OpenTrace Africa, from Addis Ababa. I build data pipelines with Python, BigQuery and dbt, and data marts for Power BI. I also work on Ask ADZA. It is a tool that answers questions from our data. It is not a chatbot, the answers come from the data itself.
 
-**Before that:** Lead Software Engineer at ICAP Global Health, where I built the Malaria Diagnosis and Treatment Activity (MDTA) platform on DHIS2 — offline-first data collection across 680 health facilities in 146 districts, which cut reporting from weeks to under 24 hours — and the Malaria Slide Bank Management System for the Ethiopian Public Health Institute.
+Before OpenTrace I worked at ICAP in Ethiopia. I built a malaria data system on DHIS2. Health workers in 680 facilities use it to report. Reports that took weeks now take less than one day. I also built the slide bank system for EPHI.
 
-**Education:** Engineering Doctorate (EngD) in Data Science, Eindhoven University of Technology (2025). My EngD research on urban digital twins was published at CENTERIS 2025 (Procedia Computer Science), and I was a finalist for the KIVI EngD Award.
+I finished my EngD in Data Science at TU/e Eindhoven in 2025. My research was on urban digital twins. The paper was published and I was a finalist for the KIVI EngD Award.
 
-## Core stack
+Tools I use most: Python, SQL, BigQuery, dbt, Kafka, Spark, DHIS2, Docker, Git.
 
-Python · SQL · Google BigQuery · dbt · Apache Kafka · Apache Spark · Delta Lake · DHIS2 · Qdrant (RAG) · Google Cloud Platform · Microsoft Azure · Docker · Git
+Some of my work is in the repositories on this page. The pinned ones are the best place to start.
 
-## Selected repositories
-
-- **medallion-sensor-streaming** — streaming medallion pipeline: Kafka ingestion to Delta Lake for the 's-Hertogenbosch urban digital twin.
-- **digitaltwindenboschbackend** — backend services for the Digital Twin Den Bosch platform.
-- **ETL-pipline-API-SQL** — object-oriented ETL in Python (the code behind my LinkedIn article on ETL design).
-- **twinquery-AI** — multilingual document querying with LLMs.
-- **slide-bank-managemnt-system** — malaria slide bank database system built for EPHI, Ethiopia.
-- **EnergyforecastLSTM** — energy forecasting with naive, dense and LSTM models.
-
-## How I work
-
-I prefer systems that are composable (replaceable parts, not fragile monoliths), explicit (clear interfaces and data contracts), and inspectable (debuggable without ritual sacrifices). Built for the second year, not the second week.
-
-## Links
-
-- LinkedIn: https://www.linkedin.com/in/danielwondyifraw/
-- Website: https://datatwinlabs.nl
-- Contact: daniel.opentrace@gmail.com
+LinkedIn: https://www.linkedin.com/in/danielwondyifraw/
+Email: daniel.opentrace@gmail.com
