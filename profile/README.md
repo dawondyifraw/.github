@@ -1,132 +1,18 @@
 <img align="right" width="360" src="https://raw.githubusercontent.com/dawondyifraw/dawondyifraw/main/profile/1747265590840.gif">
 
-# Hoi! Ik ben Daniel Wonyifraw 👋
+# Daniel Wondyifraw
 
-🧠 Data Engineering • 🤖 Machine Learning • 🏗️ Software Architecture
+I am a data engineer from Ethiopia. I have built data and software systems for more than ten years, first in Ethiopia and later in the Netherlands.
 
-I design and build **data-intensive software systems** that operate in real environments — messy data, real-time constraints, reliability requirements, and long-term maintainability.
+Now I work at OpenTrace Africa, from Addis Ababa. I build data pipelines with Python, BigQuery and dbt, and data marts for Power BI. I also work on Ask ADZA. It is a tool that answers questions from our data. It is not a chatbot, the answers come from the data itself.
 
-🎓 **Engineering Doctorate (EngD) in Data Science**  
-JADS / Eindhoven University of Technology
+Before OpenTrace I worked at ICAP in Ethiopia. I built a malaria data system on DHIS2. Health workers in 680 facilities use it to report. Reports that took weeks now take less than one day. I also built the slide bank system for EPHI.
 
-My work sits at the intersection of **data engineering, machine learning, and software architecture**, with a focus on systems that remain understandable and maintainable long after the demo phase.
+I finished my EngD in Data Science at TU/e Eindhoven in 2025. My research was on urban digital twins. The paper was published and I was a finalist for the KIVI EngD Award.
 
----
+Tools I use most: Python, SQL, BigQuery, dbt, Kafka, Spark, DHIS2, Docker, Git.
 
-# What I Build
+Some of my work is in the repositories on this page. The pinned ones are the best place to start.
 
-I help organizations design and implement **reliable data platforms and intelligent systems**.
-
-### Data Engineering
-- real-time data pipelines  
-- streaming architectures  
-- ETL and data integration  
-- scalable data platforms
-
-### Machine Learning Systems
-- model deployment and monitoring  
-- time-series forecasting  
-- applied ML for operational systems
-
-### Software Architecture
-- distributed systems design  
-- cloud-based data platforms  
-- maintainable data system architectures
-
----
-# Urban Digital Twin data pipline 
-```mermaid
-flowchart TD
-A[Sensors / External Data] --> B[Data Ingestion]
-B --> C[Data Processing]
-C --> D[Analytical Storage]
-D --> E[Machine Learning]
-E --> F[Visualization / Decision Support]
-
-```
-
-A central project of my work is the design and development of an **Urban Digital Twin platform** for the City of ’s-Hertogenbosch.
-
-The system integrates:
-
-- real-time streaming pipelines  
-- geospatial and spatiotemporal data processing  
-- time-series analytics  
-- forecasting and machine-learning models  
-- interactive visualization for urban exploration and decision support
-
-The platform is designed as a **living system** that evolves with real data rather than a static simulation model.
-
----
-
-# Data Engineering System Architecture
-
-```text
-Sensors / External Data Sources
-            │
-            ▼
-     Data Ingestion Layer
-   (Streaming APIs / Kafka)
-            │
-            ▼
-     Data Processing Layer
-      (ETL / Stream Jobs)
-            │
-            ▼
-    Analytical Storage Layer
-   (Time-Series / Data Lake)
-            │
-            ▼
- Machine Learning & Forecasting
-            │
-            ▼
-Visualization & Decision Support
-```
-
-
-
----
-
-# Engineering Principles
-
-I prefer systems that are:
-
-- **Composable** — replaceable parts, minimal lock-in  
-- **Explicit** — clear interfaces and data contracts  
-- **Inspectable** — debuggable without folklore  
-- **Maintainable** — designed for the second year, not the second week  
-
-Complexity should be visible, not hidden.
-
----
-
-# Open Source
-
-I am an open-source practitioner primarily within the **Python ecosystem**, focusing on data infrastructure, reproducibility, and clarity of implementation.
-
----
-
-# Collaboration
-
-Through **DataTwinLabs**, I collaborate with public organizations and industry partners on:
-
-- urban data platforms  
-- digital twin systems  
-- real-time analytics pipelines  
-- applied AI systems
-
----
-
-# Links
-
-🌐 Website  
-https://datatwinlabs.nl  
-
-💼 LinkedIn  
-https://www.linkedin.com/in/danielwondyifraw/  
-
-📄 Publications / Talks  
-https://www.jads.nl/news/paving-the-way-for-sustainable-urban-construction/  
-
-📫 Contact  
-datatengineerd@outlook.com
+LinkedIn: https://www.linkedin.com/in/danielwondyifraw/
+Email: daniel.opentrace@gmail.com
