@@ -1,65 +1,32 @@
-# Daniel Wonyifraw
+# Daniel Wondyifraw
 
-I build data-intensive systems at the intersection of **data engineering**, **machine learning**, and **software architecture**. The focus is production-grade work: messy data, latency, scale, reliability, and systems that remain understandable after the demo.
+Data engineer with more than ten years of experience building data systems in Ethiopia and the Netherlands — national health platforms, real-time city data, and now agricultural intelligence for African markets.
 
-- **Background:** EngD in Data Science  
-- **Core interests:** streaming platforms, digital twins, spatiotemporal systems, applied AI  
-- **Default ecosystem:** Python
+**Currently:** Data Engineer at OpenTrace Africa, working remotely from Addis Ababa. I build the automated pipelines behind a commodity pricing and intelligence platform: ingestion into BigQuery, modelling and transformation with dbt, data marts for Power BI, and a retrieval (RAG) layer — Ask ADZA, a natural-language interface over the data, scored by the ADZA Confidence Framework.
 
----
+**Before that:** Lead Software Engineer at ICAP Global Health, where I built the Malaria Diagnosis and Treatment Activity (MDTA) platform on DHIS2 — offline-first data collection across 680 health facilities in 146 districts, which cut reporting from weeks to under 24 hours — and the Malaria Slide Bank Management System for the Ethiopian Public Health Institute.
 
-## Research and applied work
+**Education:** Engineering Doctorate (EngD) in Data Science, Eindhoven University of Technology (2025). My EngD research on urban digital twins was published at CENTERIS 2025 (Procedia Computer Science), and I was a finalist for the KIVI EngD Award.
 
-My work is implementation-driven and oriented toward operational relevance. Recent work includes an **Urban Digital Twin** for the City of ’s-Hertogenbosch, integrating:
+## Core stack
 
-- real-time streaming pipelines  
-- geospatial and spatiotemporal data processing  
-- time-series storage and analytics  
-- forecasting and machine-learning models  
-- interactive 3D visualization  
+Python · SQL · Google BigQuery · dbt · Apache Kafka · Apache Spark · Delta Lake · DHIS2 · Qdrant (RAG) · Google Cloud Platform · Microsoft Azure · Docker · Git
 
-This work has been presented in academic and professional venues and continues to evolve into deployable systems.
+## Selected repositories
 
----
+- **medallion-sensor-streaming** — streaming medallion pipeline: Kafka ingestion to Delta Lake for the 's-Hertogenbosch urban digital twin.
+- **digitaltwindenboschbackend** — backend services for the Digital Twin Den Bosch platform.
+- **ETL-pipline-API-SQL** — object-oriented ETL in Python (the code behind my LinkedIn article on ETL design).
+- **twinquery-AI** — multilingual document querying with LLMs.
+- **slide-bank-managemnt-system** — malaria slide bank database system built for EPHI, Ethiopia.
+- **EnergyforecastLSTM** — energy forecasting with naive, dense and LSTM models.
 
-## Research interests
+## How I work
 
-- real-time and streaming analytics  
-- data integration and interoperability  
-- federated and distributed data processing  
-- ML deployment, evaluation, and monitoring in production  
-- system reliability, scalability, and reproducibility  
-
----
-
-## Engineering principles
-
-I prefer systems that are:
-
-- composable (replaceable parts, not fragile monoliths)  
-- explicit (clear interfaces and data contracts)  
-- inspectable (debuggable without ritual sacrifices)  
-- maintainable (designed for the second year, not the second week)
-
----
-
-## Open source
-
-I am an open-source practitioner and contribute primarily within the **Python ecosystem**. I value clarity over cleverness, and reproducibility over mystery.
-
----
-
-## Collaboration
-
-Through **DataTwinLabs**, I collaborate with public organizations and industry partners on data platforms, digital twins, and applied AI systems.
-
-If you want to collaborate on research, engineering, or applied projects where data and real-world systems meet, reach out.
-
----
+I prefer systems that are composable (replaceable parts, not fragile monoliths), explicit (clear interfaces and data contracts), and inspectable (debuggable without ritual sacrifices). Built for the second year, not the second week.
 
 ## Links
 
-- Website: `<datatwinlabs.nl>`
-- LinkedIn: `<https://www.linkedin.com/in/danielwondyifraw/>`
-- Publications / talks: `<https://www.jads.nl/news/paving-the-way-for-sustainable-urban-construction/>`
-- Contact: `<datatengineerd[at]outlook[dot]com>`
+- LinkedIn: https://www.linkedin.com/in/danielwondyifraw/
+- Website: https://datatwinlabs.nl
+- Contact: daniel.opentrace@gmail.com
