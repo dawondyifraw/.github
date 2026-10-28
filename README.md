@@ -14,4 +14,3 @@ Tools I use most: Python, SQL, BigQuery, dbt, Kafka, Spark, DHIS2, Docker, Git.
 Some of my work is in the repositories on this page. The pinned ones are the best place to start.
 
 LinkedIn: https://www.linkedin.com/in/danielwondyifraw/
-Email: daniel.opentrace@gmail.com
